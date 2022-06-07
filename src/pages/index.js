@@ -10,7 +10,8 @@ const pageStyles = {
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
-  maxWidth: 320,
+  maxWidth: 1200,
+  textAlign: "center"
 }
 const headingAccentStyles = {
   color: "#663399",
@@ -132,11 +133,8 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Welcome Ketan
-        <span style={headingAccentStyles}> GEtby site live on Getsby cloud </span>
-        <span role="img" aria-label="Party popper emojis">
-          🎉🎉🎉
-        </span>
+        Welcome Ketan !!
+        <span style={headingAccentStyles}> Gatsby site live on Gatsby cloud </span>
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.js</code> to see this page
