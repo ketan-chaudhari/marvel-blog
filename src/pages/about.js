@@ -1,3 +1,4 @@
+// Step 1: Import React
 import React from "react";
 import { Link } from "gatsby";
 
@@ -20,6 +21,7 @@ export default function About()
 }
 */
 
+// Step 2: Define your component
 const AboutPage = () => {
 
     return(
