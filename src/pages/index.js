@@ -132,8 +132,8 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Welcome
-        <span style={headingAccentStyles}> you just made a Gatsby site! </span>
+        Welcome Ketan
+        <span style={headingAccentStyles}> GEtby site live on Getsby cloud </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
